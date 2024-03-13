@@ -1,4 +1,4 @@
-package javaStuff.polymorphism;
+package javaStuff.oopStuff.polymorphism;
 
 
 public class Cat extends AnimalForPolymorphism { }

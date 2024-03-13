@@ -1,4 +1,4 @@
-package kotlinStuff.abstractAndInterface
+package kotlinStuff.oopStuffs.abstractAndInterface
 
 // we can not make object from abstract class
 

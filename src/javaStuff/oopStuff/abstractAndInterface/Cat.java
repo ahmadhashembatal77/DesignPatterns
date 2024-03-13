@@ -1,4 +1,4 @@
-package javaStuff.abstractAndInterface;
+package javaStuff.oopStuff.abstractAndInterface;
 
 public class Cat extends Animal implements AnimalStuff {
     // we get nickname from AnimalStuff, but we can not change the name

@@ -1,4 +1,4 @@
-package javaStuff.upcasting_and_downcasting;
+package javaStuff.oopStuff.upcasting_and_downcasting;
 
 public class MainForUpCastingAndDownCasting {
     public static void main(String[] args) {

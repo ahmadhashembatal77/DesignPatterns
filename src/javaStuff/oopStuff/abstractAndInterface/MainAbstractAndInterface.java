@@ -1,4 +1,4 @@
-package javaStuff.abstractAndInterface;
+package javaStuff.oopStuff.abstractAndInterface;
 
 
 // we can not make object from abstract class
@@ -13,6 +13,9 @@ package javaStuff.abstractAndInterface;
 // 1 : the variables in interface must be final
 // 2 : the methods in interface force to use
 // 3: we can not make the methods inside the interface with body
+
+// Inheritance : is the ability to build new classes on top of existing ones.
+// The main benefit of inheritance is code reuse
 
 public class MainAbstractAndInterface {
     public static void main(String[] args) {

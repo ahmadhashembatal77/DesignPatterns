@@ -1,4 +1,4 @@
-package javaStuff.abstractAndInterface;
+package javaStuff.oopStuff.abstractAndInterface;
 
 public abstract class Animal {
     int age = 1;

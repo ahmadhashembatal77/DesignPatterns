@@ -1,6 +1,6 @@
-package kotlinStuff.abstractAndInterface
+package kotlinStuff.oopStuffs.abstractAndInterface
 
-import javaStuff.abstractAndInterface.AnimalStuff
+import javaStuff.oopStuff.abstractAndInterface.AnimalStuff
 
 class Cat: Animal(), AnimalStuff {
     // we get nickname from AnimalStuff, but we can not change the name

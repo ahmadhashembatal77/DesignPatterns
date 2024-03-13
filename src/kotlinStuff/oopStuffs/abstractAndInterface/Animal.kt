@@ -1,4 +1,4 @@
-package kotlinStuff.abstractAndInterface
+package kotlinStuff.oopStuffs.abstractAndInterface
 
 abstract class Animal {
     var age = 1

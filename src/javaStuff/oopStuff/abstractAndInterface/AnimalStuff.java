@@ -1,4 +1,4 @@
-package javaStuff.abstractAndInterface;
+package javaStuff.oopStuff.abstractAndInterface;
 
 public interface AnimalStuff {
     // must the parameter in interface be final and static

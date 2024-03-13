@@ -1,4 +1,4 @@
-package kotlinStuff.abstractAndInterface
+package kotlinStuff.oopStuffs.abstractAndInterface
 
 interface AnimalStuff {
     // must the parameter in interface be final and static

@@ -45,7 +45,7 @@ fun main() {
     val address = Address(id = 1, street = "DJ", city = "New York")
     val user = User(name = "John", surname = "Smith", address = address)
 
-    val copyUser: User = user.copy(name = "Ahmad", )
+    val copyUser: User = user.copy(name = "Ahmad")
     println("----------------------------------------")
     println("original User  $user")
     println("original User  $copyUser")
@@ -77,7 +77,4 @@ fun main() {
     println("Original: $originalUserD, isChanged: ${originalUserD.isChanged}")
     println("------------------Deep Copy----------------------")
     println("Cloned: $clonedUser, isChanged: ${clonedUser.isChanged}")
-
-
-
 }

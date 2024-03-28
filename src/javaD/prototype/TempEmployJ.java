@@ -7,7 +7,6 @@ public class TempEmployJ extends EmployeePrototypeJ{
     public EmployeePrototypeJ DeepCopy(){
         TempEmployJ emp = new TempEmployJ();
         emp = (TempEmployJ) this.clone();
-        System.out.println(emp.toString());
         AddressJ address = new AddressJ(
                 this.EmpAddress.getBuilding(),
                 this.EmpAddress.getStreetName(),

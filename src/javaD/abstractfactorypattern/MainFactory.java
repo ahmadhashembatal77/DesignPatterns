@@ -1,4 +1,4 @@
-package javaD.factorypattern;
+package javaD.abstractfactorypattern;
 
 import java.util.Scanner;
 
@@ -16,6 +16,8 @@ public class MainFactory {
         cardNumber = reader.nextLine();
         bankCode = cardNumber.substring(0, 6);
         IBank bank = bankFactory.getBank(bankCode);
+        IPaymentCard paymentCard = bankFactory.getPaymentCard("12");
         System.out.println(bank.withDraw());
+        System.out.println(paymentCard.GetName());
     }
 }

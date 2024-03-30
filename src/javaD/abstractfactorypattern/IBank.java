@@ -1,4 +1,4 @@
-package javaD.factorypattern;
+package javaD.abstractfactorypattern;
 
 public interface IBank  {
     String withDraw();

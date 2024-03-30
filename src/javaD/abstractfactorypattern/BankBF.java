@@ -1,4 +1,4 @@
-package javaD.factorypattern;
+package javaD.abstractfactorypattern;
 
 public class BankBF implements IBank{
     @Override
